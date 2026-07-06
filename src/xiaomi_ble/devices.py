@@ -319,6 +319,7 @@ SLEEPY_DEVICE_MODELS = {
     "ES3",
     "JTYJGD03MI",
     "MCCGQ02HL",
+    "MS1BB(MI)",
     "RTCGQ02LM",
     "MMC-W505",
     "RS1BB(MI)",
